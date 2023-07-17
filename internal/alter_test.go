@@ -1,7 +1,3 @@
-// Copyright(C) 2022 github.com/hidu  All Rights Reserved.
-// Author: hidu <duv123@gmail.com>
-// Date: 2022/3/11
-
 package internal
 
 import (

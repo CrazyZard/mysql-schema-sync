@@ -14,7 +14,7 @@ import (
 const Version = "20220925.3"
 
 // AppURL site
-const AppURL = "https://github.com/hidu/mysql-schema-sync/"
+const AppURL = "https://github.com/CrazyZard/mysql-schema-sync/"
 
 const timeFormatStd string = "2006-01-02 15:04:05"
 
